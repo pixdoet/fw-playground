@@ -227,5 +227,5 @@ async def firewallLicense(ctx):
     await ctx.send(embed=embedder)
 
 
-TOKEN = ('ODA3MDc0MjIxMTg4MTg2MTEy.YByscQ.v4y7WKDF6BpfWDulGNFXgibnzCc') # insert your token here
+TOKEN = ('Ofafafdsafa') # insert your token here
 bot.run(TOKEN)
