@@ -2,7 +2,7 @@
 # for finding a song's lyrics
 
 from lyricsgenius import Genius
-TOKEN = ('oqN_tG3oStHRkEI0QODREeEZfppLys85xl-1PKArfJoeIqe7ykwoL37wp259rf28')
+TOKEN = ('bafr')
 genius = Genius(TOKEN)
 
 def find(inputSong,inputArtist):
